@@ -1,0 +1,11 @@
+customerID,error_type,proba,tenure,Contract,InternetService,PaymentMethod,MonthlyCharges,TechSupport
+8580-QVLOC,False Negative,0.025445387,72,Two year,DSL,Credit card (automatic),92.45,Yes
+3400-ESFUW,False Negative,0.035319243,55,Two year,DSL,Bank transfer (automatic),57.55,Yes
+6598-RFFVI,False Negative,0.07583188,2,One year,No,Credit card (automatic),19.3,No internet service
+3705-PSNGL,False Negative,0.08343042,45,One year,No,Electronic check,20.4,No internet service
+4464-JCOLN,False Negative,0.09345483,2,One year,No,Mailed check,19.85,No internet service
+4927-WWOOZ,False Positive,0.92213476,2,Month-to-month,Fiber optic,Electronic check,91.45,No
+2545-EBUPK,False Positive,0.921221,2,Month-to-month,Fiber optic,Electronic check,84.05,No
+1628-BIZYP,False Positive,0.9210241,1,Month-to-month,Fiber optic,Electronic check,85.0,No
+8161-QYMTT,False Positive,0.920243,7,Month-to-month,Fiber optic,Electronic check,94.1,No
+6630-UJZMY,False Positive,0.9128715,4,Month-to-month,Fiber optic,Electronic check,83.25,No
